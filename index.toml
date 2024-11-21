@@ -1,2 +1,130 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "LICENSE"
+hash = "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "1bf7c0fdbbed1ac97c51280644eae45f65a27fb73557c3e0321d88b507ac77c4"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "273f14914815aaf730e3fc23e915f141e1b2b7968ac9070fac889c68f0efa150"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "a8cc2e2c73da39f54ee5ad92c2ec3fb2a53a3e7d7b7e3fab89654e3621663f7b"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "ff3397f18a901a8a461f5aef2cdece5ea12ddebdc56c2993e9edfc09f7b92ecc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "44db8f518f1f3320fdd39d37835a278ce19f6762182788ef88726741be4fcc0c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "74a8abd34b5b6041e6762220c323a2efcd072c8a573e0ebdc241d9cc4ae73327"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "7db715ba09f422c2e71c312cdd978d2ae381016f4ef10eeefe2e0a51311c63ca"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2bc9452fd111e272006a18eebab39d95f0c0c42713905c50c52ec5e98140a4ee"
+metafile = true

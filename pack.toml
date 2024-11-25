@@ -1,4 +1,4 @@
-name = "strudel-pack"
+name = "Craftocracy"
 author = "gelvetica, Craftocracy"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d5787cb9cfaa7e2dd1789a460ebe4b36158491947d8acec569e5651d128a0545"
+hash = "f6e1d62010b6b8581fd4a505ba299f01f64b0a16d302d8dad3b60fb580ecf4d8"
 
 [versions]
 fabric = "0.16.9"

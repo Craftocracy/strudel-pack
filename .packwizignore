@@ -3,3 +3,15 @@
 
 # Exclude README
 /README.md
+
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude packwiz executable
+*.exe
+
+.idea/
+
+/LICENSE

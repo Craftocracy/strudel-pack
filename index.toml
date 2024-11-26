@@ -5,8 +5,23 @@ file = "LICENSE"
 hash = "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
@@ -20,8 +35,18 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "b8cafa8b626f483412ec8220638883911e0979e39f1c482e9380d2c53c878e33"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1bf7c0fdbbed1ac97c51280644eae45f65a27fb73557c3e0321d88b507ac77c4"
+metafile = true
+
+[[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "899a506ec93d9bbc84e58aebeb369847493f97a4383e6691a5d51dbb9c2f6ea2"
 metafile = true
 
 [[files]]
@@ -32,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
 metafile = true
 
 [[files]]
@@ -60,6 +90,11 @@ hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
@@ -75,8 +110,53 @@ hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+metafile = true
+
+[[files]]
+file = "mods/itemflexer.pw.toml"
+hash = "34c400c299ec6afb955c7b3010b09e818e95231c6aedee5c51bfc0c56b6053d9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+metafile = true
+
+[[files]]
 file = "mods/leashable-players.pw.toml"
 hash = "44db8f518f1f3320fdd39d37835a278ce19f6762182788ef88726741be4fcc0c"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "61d6e07d82c1e48920a997829f32f015f8028d8cc7ae3647298c3498762f61d3"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
@@ -85,8 +165,23 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/plasmid.pw.toml"
+hash = "16506429ada6668cfb57ad4c5dde1ad7cf196c54b98721fc72c6f8fb0d40ff34"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "81f185ec6688df3be5dd133e8a6a50db752f4ff2a8dc03d71b6fd92c389870a6"
 metafile = true
 
 [[files]]
@@ -115,6 +210,11 @@ hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "74a8abd34b5b6041e6762220c323a2efcd072c8a573e0ebdc241d9cc4ae73327"
 metafile = true
@@ -127,4 +227,9 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "9e401b61b9b29146b9d465c8a14bb78bc3cade43a7d4ee056faa8c1b48d387c3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true

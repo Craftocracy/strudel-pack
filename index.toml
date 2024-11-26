@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
 metafile = true
@@ -226,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9e401b61b9b29146b9d465c8a14bb78bc3cade43a7d4ee056faa8c1b48d387c3"
+hash = "2bc9452fd111e272006a18eebab39d95f0c0c42713905c50c52ec5e98140a4ee"
 metafile = true
 
 [[files]]

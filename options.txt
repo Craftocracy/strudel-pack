@@ -1,0 +1,2 @@
+version:3465
+key_key.tacz.open_config.desc:key.keyboard.y

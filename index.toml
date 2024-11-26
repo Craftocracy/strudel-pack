@@ -229,3 +229,11 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7d1c38a676b20ebe0b1e85f070955df29defbdd56dfa6b6f5d652cca4e5f3016"
+
+[[files]]
+file = "servers.dat"
+hash = "f2bcf01ef76677e14bbd88a1436013e8843b39152b5637b31e4fd390305ef0e1"

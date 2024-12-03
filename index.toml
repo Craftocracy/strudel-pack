@@ -3,6 +3,7 @@ hash-format = "sha256"
 [[files]]
 file = "config/autologin.json"
 hash = "6eee5218998d3696cce68783c3b703bc688e0300f5a6ddda7348cd7e86200c35"
+preserve = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"

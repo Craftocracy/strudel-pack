@@ -245,6 +245,11 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "f17466d4db8ff9450f7bb109a47dd3f0fb79f8857c024ae477f9e610ffa3b2bc"
 preserve = true

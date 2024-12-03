@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autologin.json"
+hash = "6eee5218998d3696cce68783c3b703bc688e0300f5a6ddda7348cd7e86200c35"
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
 metafile = true
@@ -8,6 +12,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
+metafile = true
+
+[[files]]
+file = "mods/autologin.pw.toml"
+hash = "3812ab58824f437573c7cc83b4b2cf6b5b91a84a43e633996d0dc38b275d9e97"
 metafile = true
 
 [[files]]
@@ -243,3 +252,4 @@ preserve = true
 [[files]]
 file = "servers.dat"
 hash = "f2bcf01ef76677e14bbd88a1436013e8843b39152b5637b31e4fd390305ef0e1"
+preserve = true

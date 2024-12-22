@@ -261,6 +261,11 @@ hash = "74a8abd34b5b6041e6762220c323a2efcd072c8a573e0ebdc241d9cc4ae73327"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "ccffd66a1ad693e0268b331aa5c98080befc9c70dc6fdde02fd649767ae97674"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "7db715ba09f422c2e71c312cdd978d2ae381016f4ef10eeefe2e0a51311c63ca"
 metafile = true

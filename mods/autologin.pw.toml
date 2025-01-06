@@ -1,8 +1,0 @@
-name = "AutoLogin"
-filename = "AutoLogin-0.1.1.jar"
-side = "client"
-
-[download]
-url = "https://github.com/gelvetica/AutoLogin/releases/download/v0.1.1-1.20.1/AutoLogin-0.1.1.jar"
-hash-format = "sha512"
-hash = "3dd6d6995037ce936fcf44bee9aa6f330c7f8a61230a9998d4edaffa538090d4156ec40063ff52f0a79b9d5ae23d945eb2b649b6485f589b5bafe9cc19f8e1f3"

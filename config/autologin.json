@@ -1,9 +1,0 @@
-{
-  "mainToggle": false,
-  "serverAddresses": "strudel.toasteroven.xyz",
-  "password": "put_password_here",
-  "promptRequireLogin": "/login",
-  "promptRequireRegister": "",
-  "loginCommand": "/l %p",
-  "registerCommand": "/reg %p %p"
-}

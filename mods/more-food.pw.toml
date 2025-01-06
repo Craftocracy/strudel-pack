@@ -1,0 +1,13 @@
+name = "More Food"
+filename = "More-Food-1.0.7-fabric-quilt-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yn3V0qEx/versions/Migvhbfk/More-Food-1.0.7-fabric-quilt-1.20.1.jar"
+hash-format = "sha512"
+hash = "dcd270e28f96bfe1747153d927ca1b2e82354811eea8bdbc3c3749b2ac5a48b2ca5f61d70677f13c0a4e5d40f08997def311593cc2c7f041575570925abaf16f"
+
+[update]
+[update.modrinth]
+mod-id = "yn3V0qEx"
+version = "Migvhbfk"

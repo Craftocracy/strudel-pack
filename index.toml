@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-food.pw.toml"
-hash = "49772288e2898f5bc9a7a0fa2081e1f9beafa4af4fefc475e0556261d5c240ee"
+hash = "8924e39cf9cbf921919e33c774aef0f8583cd16577dcacc9a59edf52dacd28cd"
 metafile = true
 
 [[files]]

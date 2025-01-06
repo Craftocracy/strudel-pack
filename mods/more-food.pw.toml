@@ -1,6 +1,6 @@
 name = "More Food"
 filename = "More-Food-1.0.7-fabric-quilt-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yn3V0qEx/versions/Migvhbfk/More-Food-1.0.7-fabric-quilt-1.20.1.jar"

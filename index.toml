@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "f7af17b55f8f1d99c793151cb5dab61c1306d985a51869ce64049a6df4662a04"
+hash = "020db68ee7bd9893dd0ff06ba407c5f42c4c57ca07ac444e2193277da9169aad"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Craftocracy"
 author = "gelvetica, Craftocracy, and the Strudel General Assembly"
-version = "2.3.0"
+version = "2.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d83bf66d518e742e9076802a98e355f1aa36745ff2cf3e57c9fcfda9359eb4dc"
+hash = "a66c9da6a8f650f0326d536181604ddad4f5d1a7042cc7ade1bee5b0f692e807"
 
 [versions]
 fabric = "0.16.9"

@@ -44,6 +44,11 @@ hash = "8d4062c1773719f1e07818d27233ce07c9caf65dd52f9263c4699519dcf02ffa"
 metafile = true
 
 [[files]]
+file = "mods/banner-flags.pw.toml"
+hash = "8821e184805daa4a09004c68de0562b304f154f585b8c17216c1391900097354"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "70eb227df7d2d1de6024538d19d0bd89598c603ae6e9f645f5a37df1c455f0a7"
 metafile = true
@@ -56,6 +61,16 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
 metafile = true
 
 [[files]]
@@ -84,6 +99,11 @@ hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "cc30a3c5d303452c50200cc407654fd62ba5cce33b38feeb101b4741e4f07f59"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
 metafile = true
@@ -101,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]
@@ -135,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "020db68ee7bd9893dd0ff06ba407c5f42c4c57ca07ac444e2193277da9169aad"
+hash = "eb5620c1af0dd528cd142d4e0611303f9bae9d1b8b78dd5afaf87193f0fb1a39"
 metafile = true
 
 [[files]]
@@ -216,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
 metafile = true
 
 [[files]]
@@ -475,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "b9b5cd6ab48e4428e00a7cec1cf59b429e1db775c2cbdac16d9d2e06ab145631"
+hash = "de9e9634b8e70c70e3905856456967e3f28db9478e75babe115f452974a21ab9"
 metafile = true
 
 [[files]]
@@ -500,12 +530,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cd24c0a08d5584b59c9d1763046194e0df70f40c09388fe2a957de3f0e22b3fb"
+hash = "7e71da9ac7c4977287cafb0f02ed35d270e2b4f30ba9cf7a30f24ff374880871"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "20b27f376e7e8901a9acc30e84d2137c5de399043b87a607845ef934879d2b54"
+hash = "b647fa6d9b0a7539c49e2350dc30795997420d7f6de4d09506f2d14b0b1bb063"
 metafile = true
 
 [[files]]

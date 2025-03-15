@@ -169,6 +169,11 @@ hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "a8cc2e2c73da39f54ee5ad92c2ec3fb2a53a3e7d7b7e3fab89654e3621663f7b"
+metafile = true
+
+[[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "953a1beeb4f51f10ea7ce7fa66614bda88599d45384ec5981d06519d1c1e4a75"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/plasmid.pw.toml"
 hash = "16506429ada6668cfb57ad4c5dde1ad7cf196c54b98721fc72c6f8fb0d40ff34"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "db59870600051c25e50b724489fc5a5e106fe9ef454b24195a7b918421127819"
 metafile = true
 
 [[files]]

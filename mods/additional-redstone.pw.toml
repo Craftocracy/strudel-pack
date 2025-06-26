@@ -1,0 +1,13 @@
+name = "Additional Redstone"
+filename = "additionalredstone-fabric-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hhraLneG/versions/5MWbaRIZ/additionalredstone-fabric-1.20.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "9c29e8f2fbfb620adb04c49c7e07034d874d8e8dc354ff734e37e0f7592c60d9fa68342e9eb348f758939d31ec907b3ab211bc3413ba7c0dd133b3e2e4fe3ab4"
+
+[update]
+[update.modrinth]
+mod-id = "hhraLneG"
+version = "5MWbaRIZ"

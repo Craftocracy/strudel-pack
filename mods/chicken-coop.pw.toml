@@ -1,0 +1,13 @@
+name = "Chicken Coop"
+filename = "chickencoop-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yuATtSZ0/versions/FCnvk8pV/chickencoop-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "834cff81871d9c43f8305c50df1afce1a4ecd66d104534d1d1b4ffaad868de4d73f587bc8b49eae51c6a85e2162f27468a27caf094513af5810133529b45db90"
+
+[update]
+[update.modrinth]
+mod-id = "yuATtSZ0"
+version = "FCnvk8pV"

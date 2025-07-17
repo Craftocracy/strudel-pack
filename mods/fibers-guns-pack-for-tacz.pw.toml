@@ -1,0 +1,13 @@
+name = "Fibers' Guns Pack for TACZ"
+filename = "Fibers Gunspack Fabric v1.3.5 BETA (1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d8c265f9115b1e2f9c5a2f2ce1019e0897cb743"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5746607
+project-id = 1062174

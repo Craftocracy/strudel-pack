@@ -4,7 +4,7 @@
 # Exclude README
 /README.md
 
-*.zip
+/*.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tacz/custom/SuffuseGunSmokePack1.0.4-hotfix2.zip"
+hash = "da70265448314d52955f72b3c892ae804203c952b0dfe41fe4635414b9c8004a"
+
+[[files]]
 file = "config/yosbr/config/create-client.toml"
 hash = "81d9eab1a0fe5728cb2e6b0e1bd4bd04ab187ff77886526b73a4c4fa52a8d8f3"
 
@@ -10,7 +14,7 @@ hash = "ded20c852245585c21b8daf2f368472279a89208fa873e25ff278a6eafe980a3"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "606abcf59af02a2b518e7f7e060b220a0ae9540d03a8a51ad14bcf6b5ee08eb4"
+hash = "986e4ec8fc82022f54e86cc58357afe3dc0557922c21164aa6fbc314f3f5fa96"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -113,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
+hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
 metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+hash = "dcbe0ee85bfa16137085751b34443bebecdd57cca4258b7fa0b1f06e589ee6d2"
 metafile = true
 
 [[files]]
@@ -148,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
@@ -287,6 +291,11 @@ hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
 
 [[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1bf7c0fdbbed1ac97c51280644eae45f65a27fb73557c3e0321d88b507ac77c4"
 metafile = true
@@ -369,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/fibers-guns-pack-for-tacz.pw.toml"
+hash = "7cbbd6d4de2c5206e37288df475fc7c9efb43f2b60e29efc01d304722131f466"
 metafile = true
 
 [[files]]
@@ -577,6 +591,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "9c6c5f7e4981da29d42aab28b995a8910a51e6320a38cb6f6e379a26967c0ced"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
@@ -618,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "74efcf990e82c3eeb8ad02310c254e0972edcd721671d173485a8433cbe0df19"
+hash = "9885c18a84249141b74134f29fac8d36c2d15681956ea45790bc8fcf62d364af"
 metafile = true
 
 [[files]]
@@ -643,22 +662,32 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "f5f914752c2506ac9cde7bdc3807ca9f2ebe0c0f22ee6571d7bd7b32d1297491"
+hash = "9d0c1f5a390f545852c363735c0dc38dc2097c0c11cb1afcf8151e38f3567e78"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "61b303ae5b7ff238c9ac2528617d80c2ea506268f894d72d0b444c4c2cc3da50"
+hash = "9be3955190299fe8add6d555aabc46f96fc4246836163b867602924f43fd6611"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
-hash = "5c4c324d7fe13209d40a41f7a630a29a8dba786ce3e5c59a3f42b385a5eb84e2"
+hash = "0933de7a43e71762d22a10323fc06657bd08f410273beb72badca8b36d13acb0"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "62ef39e20c5fc182a7012f6489802b85e796d9b69d976e98b04ac2d9d2acdd07"
 metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
 hash = "d384750a721077f16a9cb8d8ea59c52383005abce5c641569520a02b05d9f4e4"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
@@ -678,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "74a8abd34b5b6041e6762220c323a2efcd072c8a573e0ebdc241d9cc4ae73327"
+hash = "ed58a0a29d59c1ecae7c0c8adc2102cd9f76751fb878f8903a2b0705ada1fe4c"
 metafile = true
 
 [[files]]

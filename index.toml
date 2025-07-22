@@ -41,9 +41,8 @@ hash = "2a3129125115c6696557a51df2370c200f7ea41dedc72f076e53e5a9cf08f8cb"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "0451dc4f6515b79d34787804283141613029af0de58e2769def4d70e3777625c"
-metafile = true
+file = "mods/aether-1.20.1-1.5.2-beta.8-fabric.jar"
+hash = "2205ec08e675feb48327b9c66157035fda0dccfd0d8e4a8c9337c21b86255f71"
 
 [[files]]
 file = "mods/alcocraft.pw.toml"
@@ -312,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "904cad0b65de8e8243d1be2c60c93d63103182bd57654d864f6f74e32e7dc412"
+hash = "96a949460d898d26b7daa6923442f3274ff282166bae38d14dad6c25eba60f44"
 metafile = true
 
 [[files]]
@@ -576,8 +575,18 @@ hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "b1e875fd460779a8efcb217c8a259ad1ded47dd9df9c7fd9dfba9ad4f39b1ca3"
 metafile = true
 
 [[files]]
@@ -711,9 +720,8 @@ hash = "ed58a0a29d59c1ecae7c0c8adc2102cd9f76751fb878f8903a2b0705ada1fe4c"
 metafile = true
 
 [[files]]
-file = "mods/toms-peripherals.pw.toml"
-hash = "4dcfcecd5f3be5cbb1b07a11bf6a264033c1619786491ec2a1ebf1b748324c48"
-metafile = true
+file = "mods/toms_peripherals_fabric-1.20.1-1.3.0.jar"
+hash = "dc9b9ab0994f611e3ada1e7abe64e5a7c62fba97796c57dc8a1c197e2bb37747"
 
 [[files]]
 file = "mods/tool-trims.pw.toml"

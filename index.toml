@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "f6b6ee54d5a8f0caf59ffb15330ad89c7628c127a7f7c7ca247175e308868b53"
+
+[[files]]
 file = "config/tacz/custom/SuffuseGunSmokePack1.0.4-hotfix2.zip"
 hash = "da70265448314d52955f72b3c892ae804203c952b0dfe41fe4635414b9c8004a"
 
@@ -19,6 +23,10 @@ hash = "986e4ec8fc82022f54e86cc58357afe3dc0557922c21164aa6fbc314f3f5fa96"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "c4c5fe322d4d81cb6ec6f0ece39fb51f4b992ab12d1758d2fda953213dd59d04"
+
+[[files]]
+file = "global_packs/required_resources/thepack.zip"
+hash = "34b23495d9986cfa0501f41feced88c9d8323cc51fd5cbdacbd6710c3b3baf90"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -430,6 +438,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "196a37946c2fcb3d01f40130e2b1314550e26908705186fcfeda823cdbe94159"
+metafile = true
+
+[[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "8969ef7b75fa8cd7d0f6dc68c9e69065b7be85d0b91fe26db2881f8f0a1abcd5"
 metafile = true
@@ -602,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "9c6c5f7e4981da29d42aab28b995a8910a51e6320a38cb6f6e379a26967c0ced"
+metafile = true
+
+[[files]]
+file = "mods/psychedelicraft.pw.toml"
+hash = "53567062e72b7772bd6bb377dde73924302c8d3108ad9c9c609e433e7da666d8"
 metafile = true
 
 [[files]]
